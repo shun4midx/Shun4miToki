@@ -10,4 +10,4 @@ Toki Pona is a constructed language, with formally structured grammar, and a sma
 # Future Plans
 I may perhaps code a Toki Pona to English translator. In this project, I may include a rudimentary attempt at word-level translation. However, it will not fully encapsulate the true context-dependent nature of Toki Pona.
 
-For example, "toki" can mean "language" and "pona" can mean "good" in Toki Pona. However, "toki pona" doesn't literally mean "language good". More specifically, it should be interpreted more naturally as "the language of good" or "simple/positive language".
+For example, "toki" can mean "language" and "pona" can mean "good" in Toki Pona. However, "toki pona" doesn't literally mean "language good". More specifically, it should be interpreted more naturally as the "simple/positive language".
